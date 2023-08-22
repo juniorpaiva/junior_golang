@@ -4,10 +4,9 @@
 
 ## Módulos
 
-### **fmt**: 
-<sup>Imprimir valores  ou strings na tela</sup>
-### reflect: Imprimir o tipo da variável declarada
+**fmt:** <sup>Imprimir valores  ou strings na tela</sup>
+**reflect:** Imprimir o tipo da variável declarada
 
 ## Comandos Básicos
 
-go run codigo.go
+`go run codigo.go`` 
